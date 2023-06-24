@@ -1,6 +1,4 @@
-## MCM specific
 yodo1.com, 6241c977618701dac4c7e659, DIRECT
-## Yodo1 app-ads.txt - Updated at: 2023-06-21
 video.unrulymedia.com, 831445555, RESELLER
 zoomd.com, 88478941, RESELLER
 sharethrough.com, NIRSC9f2, RESELLER, d53b998a7bd4ecd2
